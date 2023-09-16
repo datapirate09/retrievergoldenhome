@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(300deg, #023f53, #ca5d42, #ef8132);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.doggy{
+    border-radius: 50%;
+}
+#title-of-page{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 4rem;
+    font-family: 'Mooli', sans-serif;
+}
+#sub-of-page{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Inclusive Sans', sans-serif;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.features{
+    background-color: wheat;
+}
+.footer{
+    background-color: whitesmoke;
+}
+.footer-options{
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
